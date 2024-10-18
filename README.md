@@ -38,7 +38,6 @@
 
 
 📫 How to reach me:
-- Email: MahmoudAbdelaty96@gmail.com
 - Phone: 01026094541
 
 ⚡ Fun fact: I believe that the harder you work for something, the greater you'll feel when you achieve it!
