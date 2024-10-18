@@ -13,7 +13,6 @@
 💼 Experience:
 - Software Test Automation Engineer at Union Coop (11/2023 - Present)
 - Software Testing Engineer at BarieqTech (06/2022 - 11/2023)
-- Software Testing Engineer at Beetleware (06/2020 - 06/2022)
 
 🛠️ Skills:
 - Manual and Automation Testing
