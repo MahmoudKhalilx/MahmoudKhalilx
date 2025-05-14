@@ -8,11 +8,12 @@
 🌱 I'm currently learning and expanding my skills in:
 - Advanced automation techniques
 - Performance testing
-- CI/CD integration
+- CI/CD integration (Docker - Docker Compose - Jenkins - Selenium Grid)
 
 💼 Experience:
-- Software Test Automation Engineer at Union Coop (11/2023 - Present)
-- Software Testing Engineer at BarieqTech (06/2022 - 11/2023)
+- enior Software Automation Engineer at Systems Limited - Egypt || Mashreq Bank (1/2025 - present)
+- Software Test Automation Engineer at Union Coop (11/2023 - 1/2025)
+- Software Testing Engineer at BarieqTech (06/2020 - 11/2023)
 
 🛠️ Skills:
 - Manual and Automation Testing
@@ -23,7 +24,7 @@
 - Test case writing and bug reporting
 - Agile methodologies
 - JIRA, TFS, Trello
-- Docker, Jenkins, GitHub
+- Docker, Jenkins, GitHub (Docker - Docker Compose - Jenkins - Selenium Grid)
 
 🎓 Education:
 - Bachelor's degree in Civil Engineering, Thebes Academy (2014 - 2019)
