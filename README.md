@@ -25,7 +25,12 @@
 - Agile methodologies
 - JIRA, TFS, Trello
 - Docker, Jenkins, GitHub (Docker - Docker Compose - Jenkins - Selenium Grid)
+<!--
+🏆 GitHub Stats
 
+[![MahmoudKhalilx's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MahmoudKhalilx&show_icons=true&count_private=true&theme=dracula#gh-dark-mode-only)](https://github.com/MahmoudKhalilx/github-readme-stats#gh-dark-mode-only)
+[![MahmoudKhalilx's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MahmoudKhalilx&show_icons=true&count_private=true&theme=default#gh-light-mode-only)](https://github.com/MahmoudKhalilx/github-readme-stats#gh-light-mode-only)
+-->
 ⚡️ Top Languages
 
 [![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudKhalilx&hide_progress=false&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/MahmoudKhalilx/github-readme-stats#gh-dark-mode-only)
