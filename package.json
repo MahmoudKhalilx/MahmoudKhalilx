@@ -1,0 +1,42 @@
+{
+  "name": "playwright-pom-framework",
+  "version": "1.0.0",
+  "description": "Playwright TypeScript framework with Page Object Model best practices",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:chromium": "npx playwright test --project=chromium",
+    "test:firefox": "npx playwright test --project=firefox",
+    "test:webkit": "npx playwright test --project=webkit",
+    "test:mobile": "npx playwright test --project=mobile-chrome",
+    "test:headed": "npx playwright test --headed",
+    "test:debug": "npx playwright test --debug",
+    "test:ui": "npx playwright test --ui",
+    "report": "npx playwright show-report",
+    "lint": "npx tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahmoudKhalilx/MahmoudKhalilx.git"
+  },
+  "keywords": [
+    "playwright",
+    "typescript",
+    "pom",
+    "page-object-model",
+    "automation",
+    "testing"
+  ],
+  "author": "MahmoudKhalilx",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MahmoudKhalilx/MahmoudKhalilx/issues"
+  },
+  "homepage": "https://github.com/MahmoudKhalilx/MahmoudKhalilx#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.5.0",
+    "dotenv": "^17.4.0",
+    "typescript": "^6.0.2"
+  }
+}
