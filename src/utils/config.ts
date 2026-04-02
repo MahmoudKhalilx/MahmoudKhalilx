@@ -3,7 +3,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 /**
- * Centralised environment configuration.
+ * Centralized environment configuration.
  * Reads from .env and provides typed access to every setting.
  */
 export const config = {
