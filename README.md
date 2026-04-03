@@ -11,7 +11,7 @@
 - CI/CD integration (Docker - Docker Compose - Jenkins - Selenium Grid)
 
 💼 Experience:
-- enior Software Automation Engineer at Systems Limited - Egypt || Mashreq Bank (1/2025 - present)
+- Senior Software Automation Engineer at Systems Limited - Egypt || Mashreq Bank (1/2025 - present)
 - Software Test Automation Engineer at Union Coop (11/2023 - 1/2025)
 - Software Testing Engineer at BarieqTech (06/2020 - 11/2023)
 
