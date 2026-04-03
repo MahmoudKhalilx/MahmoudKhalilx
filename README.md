@@ -25,6 +25,7 @@
 - Agile methodologies
 - JIRA, TFS, Trello
 - Docker, Jenkins, GitHub (Docker - Docker Compose - Jenkins - Selenium Grid)
+- GitHub Actions
 <!--
 🏆 GitHub Stats
 
