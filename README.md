@@ -26,6 +26,7 @@
 - JIRA, TFS, Trello
 - Docker, Jenkins, GitHub (Docker - Docker Compose - Jenkins - Selenium Grid)
 - GitHub Actions
+- Playwright with Js/Ts
 <!--
 🏆 GitHub Stats
 
