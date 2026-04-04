@@ -35,6 +35,10 @@
 -->
 ⚡️ Top Languages
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudKhalilx&layout=compact&theme=tokyonight)
+
+
 [![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudKhalilx&hide_progress=false&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/MahmoudKhalilx/github-readme-stats#gh-dark-mode-only)
 [![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudKhalilx&hide_progress=false&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/MahmoudKhalilx/github-readme-stats#gh-light-mode-only)
 
